@@ -1,0 +1,11 @@
+h1{
+    color:rgb(143, 17, 17);
+    font-family: san-serif;
+    fontsize:20px;
+    text-align:center;
+ }
+img{
+    width: 300px;
+    border: 000 2px double;
+    padding:4%
+}
